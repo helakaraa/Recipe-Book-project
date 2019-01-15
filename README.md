@@ -1,5 +1,8 @@
 # Recipe Book Project
 
+The project have two sections shopping list and recipe book and you will be able to manage your recipes viewed them in detail and also to manage your shopping list and even push ingredients
+from our recipe directly to a shopping list.
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.1.4.
 
 ## Development server
